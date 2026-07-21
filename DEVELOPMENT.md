@@ -174,6 +174,8 @@ The pegs screw in from the back of the frame. They can be installed before or af
 
 If the pegs do not need to remain removable, they can be glued in place after final test fitting.
 
+The rounded-peg possibility was also pointed out by Reddit user `u/sparkyblaster` in the Day 2 Reddit thread, and credit is due for that observation.
+
 ---
 
 ## Assembly Support
