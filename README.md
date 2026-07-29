@@ -18,7 +18,8 @@ This is an independent repair/restoration project. It is not an original Apple p
 - [Materials](#materials)
 - [Print settings](#print-settings)
 - [Assembly](#assembly)
-- [Fabric installation](#fabric-installation)
+- [Fabric Installation (v1 - Glued)](#fabric-installation-v1)
+- [Fabric Installation (v2 - Press Fit)](#fabric-installation-v2)
 - [Mounting pegs](#mounting-pegs)
 - [Known notes](#known-notes)
 - [Development log](DEVELOPMENT.md)
@@ -77,9 +78,13 @@ Use of the assembly support is optional, but recommended.
 
 ### Retaining Strips
 
-The retaining strips are used to hold the fabric in the fabric retention channel. They are glued in place after the fabric is stretched over the frame.
+The retaining strips are used to hold the fabric in the fabric retention channel. There are two versions:
+v1: Requires retainign strips to be glued in place after the fabric is stretched over the frame.
 
-![Fabric retention channel](Pictures/fabric-retention-channel.jpg)
+![Fabric retention channel v1](Pictures/fabric-retention-channel.jpg)
+
+v2: Allows retaining strip to be press fitted into the channel.
+![Fabric retention channel v2](Pictures/fabric-retention-channel-v2.jpg)
 
 ### Replaceable Pegs
 
@@ -147,11 +152,16 @@ Suggested assembly order:
 8. Use the assembly support to align the main frame sections.
 9. Glue the main frame sections together.
 10. Let the frame glue fully cure.
-11. Stretch fabric over the frame.
-12. Press the fabric into the retention channel.
-13. Glue the retaining strips in place.
-14. Trim the excess fabric after the glue has cured.
-15. Install the grille on the iPod Hi-Fi.
+
+---
+
+## Fabric Installation (v1 - Glued)
+
+The frame includes a fabric retention channel. The fabric is stretched over the frame, pressed into the channel, and held by glued retaining strips.
+
+This is intended to make fabric installation cleaner than simply wrapping and gluing fabric around the back of the frame.
+
+The retaining strips are not intended to be routinely removable. They are part of the final assembly.
 
 ![Fabric installation step 1](Pictures/fabric-install-step-1.jpeg)
 
@@ -159,17 +169,17 @@ Suggested assembly order:
 
 ![Fabric installation final](Pictures/fabric-install-final.jpeg)
 
----
+![Final corner](Pictures/final-corner.jpeg)
 
-## Fabric Installation
+## Fabric Installation (v2 - Press Fit)
 
-The frame includes a fabric retention channel. The fabric is stretched over the frame, pressed into the channel, and held by glued retaining strips.
+The frame includes a fabric retention channel. The fabric is stretched over the frame, pressed into the channel, and held by press fit retaining strips.
 
-This is intended to make fabric installation cleaner and more repeatable than simply wrapping and gluing fabric around the back of the frame.
+This is intended to make fabric installation cleaner and more repeatable than simply wrapping and gluing fabric around the back of the frame or gluing into the channel.
 
 The retaining strips are not intended to be routinely removable. They are part of the final assembly.
 
-![Final corner](Pictures/final-corner.jpeg)
+![Fabric retention test](Pictures/fabric-clip-test.jpg)
 
 ---
 
