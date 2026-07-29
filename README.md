@@ -16,7 +16,6 @@ This is an independent repair/restoration project. It is not an original Apple p
 - [Files included](#files-included)
 - [Parts overview](#parts-overview)
 - [Materials](#materials)
-- [Print settings](#print-settings)
 - [Assembly](#assembly)
 - [Fabric Installation (v1 - Glued)](#fabric-installation-v1)
 - [Fabric Installation (v2 - Press Fit)](#fabric-installation-v2)
@@ -28,7 +27,7 @@ This is an independent repair/restoration project. It is not an original Apple p
 
 ---
 
-## What This Is
+## What This Is {#what-this-is}
 
 This is a replacement front grille assembly for the Apple iPod Hi-Fi.
 
@@ -46,7 +45,7 @@ The printed frame is designed to sit behind the fabric. The fabric is the visibl
 
 ---
 
-## Files Included
+## Files Included {#files-included}
 
 The repository includes:
 
@@ -60,7 +59,7 @@ The OBJ files are intended to include the main grille frame sections, replaceabl
 
 ---
 
-## Parts Overview
+## Parts Overview {#parts-overview}
 
 ### Main Frame
 
@@ -84,6 +83,7 @@ v1: Requires retainign strips to be glued in place after the fabric is stretched
 ![Fabric retention channel v1](Pictures/fabric-retention-channel.jpg)
 
 v2: Allows retaining strip to be press fitted into the channel.
+
 ![Fabric retention channel v2](Pictures/fabric-retention-channel-v2.jpg)
 
 ### Replaceable Pegs
@@ -94,7 +94,7 @@ The mounting pegs are separate screw-in parts. This allows the peg design to be 
 
 ---
 
-## Materials
+## Materials {#materials}
 
 Recommended:
 
@@ -112,33 +112,7 @@ Avoid thick upholstery fabric, felt, dense neoprene, metal mesh, mosquito screen
 
 ---
 
-## Print Settings
-
-Prototype parts were printed with:
-
-```text
-Printer: Bambu Lab A1 Mini
-Nozzle: 0.4 mm
-Material: PLA
-```
-
-Suggested starting settings:
-
-```text
-Layer height: 0.16 mm or 0.20 mm
-Walls: 3 or more
-Infill: 15-25%
-Supports: avoid if possible
-Orientation: flat on the bed
-```
-
-PLA was used for prototyping and test fitting. PETG may be a good option for final parts if more toughness or heat resistance is desired.
-
-Always test fit before gluing anything permanently.
-
----
-
-## Assembly
+## Assembly {#assembly}
 
 Suggested assembly order:
 
@@ -155,7 +129,7 @@ Suggested assembly order:
 
 ---
 
-## Fabric Installation (v1 - Glued)
+## Fabric Installation (v1 - Glued) {#fabric-installation-v1}
 
 The frame includes a fabric retention channel. The fabric is stretched over the frame, pressed into the channel, and held by glued retaining strips.
 
@@ -171,7 +145,7 @@ The retaining strips are not intended to be routinely removable. They are part o
 
 ![Final corner](Pictures/final-corner.jpeg)
 
-## Fabric Installation (v2 - Press Fit)
+## Fabric Installation (v2 - Press Fit) {#fabric-installation-v2}
 
 The frame includes a fabric retention channel. The fabric is stretched over the frame, pressed into the channel, and held by press fit retaining strips.
 
@@ -179,11 +153,11 @@ This is intended to make fabric installation cleaner and more repeatable than si
 
 The retaining strips are not intended to be routinely removable. They are part of the final assembly.
 
-![Fabric retention test](Pictures/fabric-clip-test.jpg)
+![Fabric retention test](Pictures/fabric-clip-test.jpeg)
 
 ---
 
-## Mounting Pegs
+## Mounting Pegs {#mounting-pegs}
 
 The mounting pegs are screw-in parts installed from the back of the grille frame.
 
@@ -220,7 +194,7 @@ Because of this, the design uses replaceable pegs.
 
 ---
 
-## Known Notes
+## Known Notes {#known-notes}
 
 - This is a replacement part, not an original Apple part.
 - The fit was developed using real iPod Hi-Fi units, but small variation may exist between units.
@@ -231,7 +205,7 @@ Because of this, the design uses replaceable pegs.
 
 ---
 
-## Development Log
+## Development Log {#development-log}
 
 The design process, measurement approach, corner-radius tests, peg-spacing work, and thread decisions are documented separately in [`DEVELOPMENT.md`](DEVELOPMENT.md).
 
@@ -239,7 +213,7 @@ The README is kept focused on printing and assembly so people who only want to r
 
 ---
 
-## Credits
+## Credits {#credits}
 
 This project was helped by the following public resources:
 
@@ -249,7 +223,7 @@ This project was helped by the following public resources:
 
 ---
 
-## Disclaimer
+## Disclaimer {#disclaimer}
 
 Apple, iPod, and iPod Hi-Fi are trademarks of Apple Inc.
 
@@ -261,7 +235,7 @@ Avoid adhesives or mounting methods that could permanently damage the speaker en
 
 ---
 
-## License
+## License {#license}
 
 Unless otherwise stated, documentation, images, and design files in this repository are shared under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
